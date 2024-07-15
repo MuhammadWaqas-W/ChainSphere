@@ -1,0 +1,7 @@
+const NETWORKS = {
+  80002: {
+    SOCIAL_MEDIA: "0x05ebA645F068375c9395efdA4cE2A4C6c518A3C4",
+  },
+};
+
+export { NETWORKS };
